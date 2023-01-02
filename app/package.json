@@ -15,14 +15,14 @@
   "dependencies": {
     "axios": "^0.21.2",
     "lodash": "^4.17.21",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.13.0",
     "vue-lodash": "^2.1.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^4.19.1",
     "eslint-friendly-formatter": "^4.0.1",
-    "eslint-loader": "^2.1.1",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-vue": "^4.0.0"
   }
 }
